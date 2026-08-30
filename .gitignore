@@ -1,0 +1,45 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+data-therapy/build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+backend/rehab.db
+*.db-journal
+*.log
+backend/seed_out.txt
+data-therapy/temp_fma.json
+
+# Local verification artifacts
+refdata/pkgtest/
+_req_extract.txt
+*.docx
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Agent-local metadata
+.agents/
+.codex/
+data-therapy/.git.nested-backup/

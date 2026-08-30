@@ -1,0 +1,27 @@
+The Berg Balance Scale (or BBS) is a widely used clinical test of a person's static and dynamic balance abilities, named after Katherine Berg, one of the developers. For functional balance tests, the BBS is generally considered to be the gold standard.
+The test takes 15–20 minutes and comprises a set of 14 simple balance related tasks, ranging from standing up from a sitting position, to standing on one foot. The degree of success in achieving each task is given a score of zero (unable) to four (independent), and the final measure is the sum of all of the scores.
+The BBS has been shown to have excellent inter-rater (ICC = 0.98) and intra-rater relative reliability (ICC = 0.97), with an absolute reliability varying between 2.8/56 and 6.6/56, with poorer reliability near the middle of the scale, and is internally consistent (0.96). The BBS correlates satisfactorily with laboratory measures, including postural sway, and has good concurrent criterion, predictive criterion, and construct validity. Considerable evidence indicates that the BBS is also a valid measure of standing balance in post-stroke patients, but only for those who ambulate independently, due to the tasks that are required of the patient. The BBS was recently identified as the most commonly used assessment tool across the continuum of stroke rehabilitation and it is considered a sound measure of balance impairment.
+
+The BBS has been strongly established as valid and reliable but there are still several factors which may indicate that the BBS should be used in conjunction with other balance measures.  For example, there are a few tasks in the BBS to test dynamic balance, which may limit its ability to challenge older adults who live independently in the community.  A ceiling effect and floor effect has been reported for the BBS when used with community dwelling older adults.
+ The use of the BBS as an outcome measure is compromised when participants score high on initial trials.  In initial development of the BBS, the authors noted that a limitation to the scale was the lack of items requiring postural response to external stimuli or uneven support surfaces.  This indicates that the BBS may be more appropriate for use with frail older adults rather than community-dwellers.  In addition, the BBS has been shown to be a poor predictor of falls.
+The interpretation of the result is:
+
+Alternatively, the BBS can be used as a multilevel tool, with the risk of multiple falls increasing below a score of 45 and a significant increase below 40.  In the original study, the value of 45 points was used to calculate relative risk estimates to demonstrate predictive validity, and a score of 45 has been shown to be an appropriate cut-off for safe independent ambulation and the need for assistive devices or supervision. An instrumented version of BBS is recently proposed to avoid observer bias and to facilitate objective assessment of Balance in home environments for periodic or long term monitoring.
+
+
+== Outcome measures ==
+The Berg Balance Scale is used by clinical exercise physiologists, physiotherapists and occupational therapists to determine the functional mobility of an individual. This test can be administered prior to treatment for elderly individuals and patients with a history of but not limited to stroke,
+ Multiple sclerosis, Parkinson's disease, Ataxia, vertigo, cardiovascular disease and respiratory disease. The Berg Balance Scale Test can be administered every few months of treatment to determine if the treatment was effective for increasing the patient's functional mobility (a difference of 8 points is considered a significant change).
+
+
+== See also ==
+
+Timed Up and Go test
+Tinetti Test
+
+
+== References ==
+
+
+== External links ==
+Berg Balance Scale Calculator – complete 14-task scoring with MDC tracking and EMR documentation – MedicalCalculatorHub.com

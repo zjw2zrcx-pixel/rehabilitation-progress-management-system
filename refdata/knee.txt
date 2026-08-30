@@ -1,0 +1,230 @@
+Knee replacement, also known as knee arthroplasty, is a surgical procedure to replace the weight-bearing surfaces of the knee joint to relieve pain and disability. It is most commonly performed for osteoarthritis, but it can also be used for other knee diseases, such as rheumatoid arthritis and psoriatic arthritis. In people with severe deformity from advanced rheumatoid arthritis, trauma, or long-standing osteoarthritis, the surgery may be more complicated and carry a higher risk. Osteoporosis does not typically cause knee pain, deformity, or inflammation and is not a reason to perform knee replacement.
+Knee replacement surgery can be performed as a partial or a total knee replacement. In general, the surgery consists of replacing the diseased or damaged joint surfaces of the knee with metal and plastic components shaped to allow continued motion of the knee.
+The operation typically involves substantial postoperative pain and includes vigorous physical rehabilitation. The recovery period may be 12 weeks or longer and may involve the use of mobility aids (e.g., walking frames, canes, crutches) to enable the person's return to preoperative mobility. It is estimated that approximately 82% of total knee replacements will last 25 years.
+
+
+== History ==
+The first documented artificial knee replacement was a device using ivory knee components fixed together with plaster of Paris, reported in 1890.
+In the 1950s, a cobalt-chrome hinged knee was used to replace both the femur and tibia, although this device had high failure rates due to an inability to accommodate the knee's natural rotational movement. In 1970, a knee replacement that featured metal runners with polyethylene components was applied, although this device was limited in design and instrumentation.
+The total condylar knee replacement was used to accommodate all three knee components (femur, tibia, and patella), with the first successful total condylar surgery performed at Hospital for Special Surgery in New York City in 1974.
+The first smart knee replacement, called Persona IQ smart implant, enabled remote daily monitoring for one year, as reported in 2021.
+
+
+== Medical uses ==
+
+Knee replacement surgery is most commonly performed in people with advanced osteoarthritis and should be considered when conservative treatments have been exhausted. Total knee replacement is also an option to correct significant knee joint or bone trauma in young patients, treat complex fractures in the elderly, either due to previous symptomatic osteoarthritis or situations where internal fixation with plates and screws is deemed too hazardous. Similarly, total knee replacement can be performed to correct mild valgus or varus deformity. Severe valgus or varus deformity should be corrected by osteotomy. Physical therapy has been shown to improve function and may delay or prevent the need for knee replacement. Pain is often noted when performing physical activities requiring a wide range of motion in the knee joint.
+
+
+=== Outcomes ===
+Knee replacement provides significantly better results than exercise training in terms of reducing pain 6 months to 2 years afterwards. People who have had knee replacements have lower death rates than the matched population for 10 years after surgery, but increased rates from 11 years onwards. For this reason, it is sometimes argued that the age group 65-75 is the best time to consider having a knee replacement if activity is being severely curtailed by knee pain. Although knee replacement has superior 24-month results in terms of pain relief than exercise treatment, it may not be cost-effective compared to the option of initial exercise treatment followed by crossover to knee replacement if results are unsatisfactory.
+
+
+== Pre-operative preparation ==
+
+To indicate knee replacement in case of osteoarthritis, its radiographic classification and severity of symptoms both should be substantial. Such radiography should consist of weightbearing X-rays of both knees: AP, lateral, and 30 degrees of flexion. AP and lateral views may not show joint space narrowing, but the 30-degree flexion view is most sensitive for narrowing. Full-length projections are also used in order to adjust the prosthesis to provide a neutral angle for the distal lower extremity.
+
+Two angles used for this purpose are: Hip-knee-shaft angle (HKS), an angle formed between a line through the longitudinal axis of the femoral shaft and its mechanical axis, which is a line from the center of the femoral head to the intercondylar notch of the distal femur. and hip-knee-ankle angle (HKA), which is an angle between the femoral mechanical axis and the center of the ankle joint. It is normally between 1.0° and 1.5° of varus in adults.
+The patient is to perform range-of-motion exercises, and hip, knee and ankle strengthening as directed daily. Exercises that include strengthening of hip flexors, hip abductors and knee flexors helps to recover effectively post operatively. Before the surgery is performed, pre-operative tests are done: usually a complete blood count, electrolytes, APTT and PT to measure blood clotting, chest X-rays, ECG, and blood cross-matching for possible transfusion. About a month before the surgery, the patient may be prescribed supplemental iron to boost the hemoglobin in their blood system. Accurate X-rays of the affected knee are needed to measure the size of components that will be needed. Medications such as warfarin and aspirin will be stopped some days before surgery to reduce the amount of bleeding. Patients may be admitted on the day of surgery if the pre-op work-up is done in the pre-anesthetic clinic or may come into hospital one or more days before surgery.
+As of 2017, there was insufficient quality evidence to support the use of pre-operative physiotherapy in older adults undergoing total knee arthroplasty. However, as of 2022, there has been renewed interest in improving patient outcomes and "prehab" has become standard practice.
+Preoperative education is used as a part of patient care. There is some evidence that it may slightly reduce anxiety before knee-replacement surgery, with low risk of detrimental effects. Knee replacement referrals are often blocked if a person is overweight because it is believed they may benefit less from surgery. However, knee replacements have been found to reduce pain and improve function, regardless of people's weight. After 10 years, most people did not need repeat surgery. In addition, weight loss surgery before a knee replacement does not appear to change outcomes.
+
+
+== Technique ==
+
+The surgery involves exposure of the front of the knee, with detachment of part of the quadriceps muscle (vastus medialis) from the patella.  The patella is displaced to one side of the joint, allowing exposure of the distal end of the femur and the proximal end of the tibia. The ends of these bones then are cut accurately to shape, using cutting guides oriented to the long axis of the bones. The cartilages and the anterior cruciate ligament are removed; the posterior cruciate ligament also may be removed but the tibial and fibular collateral ligaments are preserved. Whether the posterior cruciate ligament is removed or preserved depends on the type of implant used, although there appears to be no clear difference in knee function or range of motion favoring either approach. Metal components are then impacted onto the bone or fixed using polymethylmethacrylate (PMMA) cement. Alternative techniques exist that affix the implant without cement.  These cement-less techniques may involve osseointegration, including porous metal prostheses. Finally, stability and range of motion are checked, followed by irrigation, hemostasis, placement of hemovacs, and closure.
+
+
+=== Kinematic alignment ===
+Kinematic alignment is an alternative surgical approach in total knee arthroplasty that aims to restore the patient's pre-arthritic joint anatomy by positioning prosthetic components according to the native kinematic axes of the knee, rather than aligning them to a neutral mechanical axis. This technique resurfaces the knee to reproduce the original joint line orientation, limb alignment, and ligament laxity, restoring the pre-arthritic state of the knee.
+A variant known as restricted kinematic alignment (rKA) applies the same kinematic principles within defined angular safety limits—typically within 3° of the neutral mechanical axis—to balance personalization with implant durability. Robot-assisted surgical platforms, including MAKO and CORI, have been used to implement kinematic alignment with greater intraoperative precision; specific biomechanical considerations for robot-assisted restricted kinematic alignment have been described.
+Historically, patient satisfaction following total knee arthroplasty has been lower than that observed after total hip replacement.
+Kinematic alignment has been associated with improved functional outcomes and patient satisfaction in comparative studies, with some reports suggesting outcomes approaching those seen in total hip arthroplasty.
+
+Gait analysis studies have shown that asymmetric gap balancing—a feature of kinematic alignment—may produce knee kinematics more closely resembling physiological patterns compared to the symmetric approach used in mechanical alignment. Augmented reality-assisted approaches targeting dynamic ligament boundaries rather than static alignment axes have demonstrated postoperative gait patterns with reduced asymmetry between the operated and contralateral limb.
+
+
+=== Femoral replacement ===
+A round-ended implant is used for the femur, mimicking the natural shape of the joint. On the tibia the component is flat, although it sometimes has a stem that goes down inside the bone for further stability. A flattened or slightly dished high-density polyethylene surface is then inserted onto the tibial component so the weight is transferred metal to plastic, not metal to metal. During the operation any deformities must be corrected, and the ligaments balanced so the knee has a good range of movement, and is stable and aligned. In some cases the articular surface of the patella also is removed and replaced by a polyethylene button cemented to the posterior surface of the patella.  In other cases, the patella is replaced unaltered.
+
+
+=== Technology ===
+In recent years, there has been an increase in technology assistance with implantation of total knee replacements. Traditionally, knee replacements were performed using mechanical jigs, not unlike those used in carpentry. These mechanical jigs rely on vision and human judgment. Using computer assistance to provide navigation, navigated knee replacements provide assistance in more accurate placement of implanted knee replacements based on mechanical axis. While these implants are placed more accurately, there has not been much improvement in long-term outcomes.  Similarly, sensor-based guidance provides accurate feedback to demonstrate soft-tissue tension to assist in guidance of insertion of knee replacements. Robotic-assisted knee replacements take into account both mechanical axis and soft-tissue balancing in order to assist the surgeon in placement of a knee replacement. Short-term outcomes of robotic-assisted knee replacements are promising.
+
+
+=== Augmented reality-assisted surgery ===
+Augmented reality (AR) navigation has been introduced as an intraoperative guidance technology in total knee arthroplasty (TKA). AR systems project preoperative planning data directly into the surgeon's field of view, enabling real-time guidance on bone cut orientations and component positioning. Approaches vary across platforms: some systems require CT-based preoperative 3D planning combined with smart glasses and a compact tracking system, while others operate without additional preoperative imaging and guide the distal femoral and proximal tibial cutting guides intraoperatively. Some systems additionally provide real-time soft tissue assessment, enabling the surgeon to tailor implant positioning to each patient's individual anatomy. Early clinical studies have reported high accuracy in replicating planned bone resections and significant improvements in patient-reported outcomes at short-term follow-up.
+In 2020, the first knee replacement surgeries assisted by augmented reality were performed to enhance precision and accuracy in bone cuts and implant placement.
+
+
+=== Post-operative pain control ===
+The regional analgesia techniques (neuraxial anesthesia or continuous femoral nerve block or adductor canal block) are used most commonly. Local anesthesia infiltration in the pericapsular area using liposomal bupivacaine provides good analgesia in the post-operative period without increasing the risk for instability or nerve injury. Some benefits in femoral nerve blocks are a  reduction in morphine consumption and a decrease in pain intensity.  A combined approach of local infiltration analgesia and femoral nerve block to achieve multimodal analgesia is common.
+
+
+=== Modified intervastus approach ===
+
+Introduced in 2018, a modified intervastus approach to the anterior knee may be used for total knee arthroplasty. The procedure is intended to preserve the quadriceps tendon and vastus medialis.
+
+
+=== Tourniquet use ===
+To reduce blood loss, a pressurized pneumatic tourniquet may be used during this operation. The current body of evidence suggests if a tourniquet is used in knee replacement surgery, it probably increases the risk of severe side effects and postoperative pain. The evidence did not show any clear benefit on patient function, treatment success or quality of life.
+
+
+== Controversies ==
+
+
+=== Cemented or cementless ===
+The femoral, tibial and patellar components of a total knee replacement are fixed to the bone by using either cement or cementless total knee replacement implants. Cemented fixation is performed on the vast majority of total knee replacements. However, short-term trials suggest that there may be relief of pain. There are concerns regarding tibial loosening after implantation, prohibiting widespread adoption of cementless knee replacements at this time.
+
+
+=== Denervation of the patella ===
+There is debate regarding denervating the patella. Anterior knee pain is thought to be related to the association of the patella and femoral component. Some surgeons believe that by using electrocautery to denervate the patella, it reduces the chance of anterior knee pain postoperatively.
+
+
+=== Patella resurfacing ===
+Many surgeons in the US perform patella resurfacing routinely, while many surgeons in Asia and Europe do not. Patella resurfacing is performed by removing the cartilage from the surface of the knee and replacing it with polyethylene. Surgeons who do not routinely resurface the patella do not believe that it is a significant contribution to pain, when there is no evidence of arthritis to the patellofemoral joint. Some surgeons believe it is not cost-effective routinely to resurface the kneecap and that routine patella resurfacing may lead to increased complications such as patella fracture. Other surgeons are concerned that patients with an unresurfaced patella may have increased pain postoperatively. A meta-analysis evaluating outcomes following patella resurfacing found that routine resurfacing more reliably relieves patient's pain.
+
+
+=== Tibia polyethylene component ===
+Polyethylene is the plastic component that is inserted between the femoral and tibial components. There are several different polyethylene component designs that have been published,
+including posterior stabilized (PS), cruciate retaining (CR), bicruciate retaining (BCR), medial congruent (MC) and mobile bearing.
+
+
+=== Ligament retaining or sacrificing ===
+The posterior cruciate ligament (PCL) is important to the stability of the knee by preventing posterior subluxation of the tibia, reducing shear stress, increasing flexion and lever arm of the extensor mechanism by inducing femoral rollback upon flexion, and thus minimizing polyethylene abrasion through reducing stress applied to the articular surface. The PS implant uses a post that is built into the implant to accommodate for the loss of PCL. Proponents of retaining the PCL advise that it is difficult to balance a CR knee and unnatural physiologic loads may increase wear of the polyethylene. Multiple studies have demonstrated minimal to no difference between the two designs.
+
+
+==== Medial congruent polyethylene and ligament retaining ====
+MC knee replacements attempt to mimic a more natural knee motion by decreasing motion on the medial aspect of the knee and allowing for increased motion on the lateral aspect of the joint. This mimics the external rotation and abduction of the tibia that is seen during normal ambulation. While several studies have shown improved gait profiles, long-term studies are needed to demonstrate improved results. Conversely, the BCR knee retains the Anterior and posterior cruciate ligaments to try to mimic the normal tension of the knee's ligaments.  Concerns over increased revision frequency have led to some designs being pulled from the market.
+
+
+=== Mobile bearing ===
+A mobile bearing design allows for free motion of the polyethylene within the tibial component. Other component designs have the polyethylene member fixed to the tibial component, and only articulate at the femur/polyethylene junction. There is no strong evidence that this approach improves knee function, mortality, adverse events, or amount of pain, compared with a fixed bearing approach for total knee replacement. Mobile bearing designs are important to ensuring decreased wear rates in hinged knee arthroplasty.
+
+
+=== Minimally invasive ===
+Minimally invasive procedures have been developed in total knee replacement that do not cut the quadriceps tendon. There are different definitions of minimally invasive knee surgery, which may include a shorter incision length, retraction of the patella without eversion (rotating out), and specialized instruments. There are few randomized trials, with studies finding less postoperative pain, shorter hospital stays, and shorter recovery times. These studies have not shown long-term benefits.
+
+
+=== Partial knee replacement ===
+
+Unicompartmental arthroplasty (UKA), also called partial knee replacement, is an option for some people. The knee is generally divided into three "compartments": medial, lateral, and patellofemoral. Most people with arthritis severe enough to consider knee replacement have significant wear in two or more of the above compartments, and are treated with total knee replacement (TKA). A minority of people with osteoarthritis have wear primarily in one compartment, usually the medial, and may be candidates for unicompartmental knee replacement. Advantages of UKA compared to TKA include smaller incision, easier post-op rehabilitation, better postoperative range of motion, shorter hospital stay, less blood loss, lower risk of infection, stiffness, and blood clots, but a harder revision if necessary. Persons with infectious or inflammatory arthritis (rheumatoid arthritis, lupus, psoriasis), or marked deformity are not candidates for this procedure.
+Many studies demonstrate higher revision rates associated with partial knee replacements. There is significant variation in revision rates, depending on implant design and implantation technique.
+
+
+== Components and zones ==
+
+Standardized zones around the components are used for specifying, for example, signs of loosening on radiographic follow-up. There are various classification systems for specifying such zones, including by KS (Knee Society) zones published in 2015.
+
+Specific KS zones are as follows, with * meaning that the zone can be specified as "A" (anterior), "P" (posterior), "M" (medial) or "L" (lateral):
+
+Femoral component (lateral view)
+Zone 1 and 2: Anterior and posterior flange, respectively.
+Zone 3: Central box/distal fixation region, where "A" and "P" designate the respective chamfers if visible*
+Zone 4: Stem extension*
+Zone 5: Stem
+Tibial component:
+Zone 1: Anterior on lateral view, medial on anteroposterior (AP) view.
+Zone 2: Posterior on lateral view, lateral on AP view.
+Zone 3: Central keel/stem/peg fixation region*
+Zone 4: Stem extension*
+Zone 5: Inferior aspect of keel or stem
+
+
+== Risks ==
+Risks and complications in knee replacement are similar to those associated with all joint replacements. The most serious complication is infection of the joint, which occurs in <1% of patients. Risk factors for infection are related to both patient and surgical factors. Deep vein thrombosis occurs in up to 15% of patients, and is symptomatic in 2–3%. Nerve injuries occur in 1–2% of patients. Persistent pain or stiffness occurs in 8–23% of patients. Prosthesis failure occurs in approximately 2% of patients at 5 years.
+There is increased risk of complications for obese people going through total knee replacement. The morbidly obese should be advised to lose weight before surgery and, if medically eligible, would probably benefit from bariatric surgery.
+Smokers have a higher risk of surgical complications (deep wound infection, superficial wound infection, and wound dehiscence) compared with nonsmokers. They also have a higher risk of pneumonia after surgery.
+Fracturing or chipping of the polyethylene platform between the femoral and tibial components may be of concern. These fragments may become lodged in the knee and create pain or may move to other parts of the body. Advancements in implant design have greatly reduced these issues but the potential for such an event is still present over the life span of the knee replacement.
+
+
+=== Deep vein thrombosis ===
+According to the American Academy of Orthopedic Surgeons (AAOS), deep vein thrombosis in the leg is "the most common complication of knee replacement surgery... prevention... may include periodic elevation of patient's legs, lower leg exercises to increase circulation, support stockings and medication to thin your blood." Some medications used to thin the blood to prevent thrombotic events include direct oral anticoagulants (i.e. rivaroxaban, dabigatran, and apixaban), low-molecular weight heparins (i.e. dalteparin, enoxaparin), and the antiplatelet agent aspirin. Although it is suggested that aspirin is non-inferior to rivaroxaban, it is unclear if aspirin is appropriate for all patients. This is specifically the case for those people who have additional risk factors for venous thromboembolisms, and those people who are at risk of aspirin resistance.
+
+
+=== Fractures ===
+Periprosthetic fractures are becoming more frequent with the aging patient population and can occur intraoperatively or postoperatively. Depending on the location of the fracture and the stability of the prosthesis, these can be treated surgically with open reduction and internal fixation or revision of the prosthesis.
+
+
+=== Loss of motion ===
+The knee at times may not recover its normal range of motion (0–135 degrees usually) after total knee replacement. Much of this is dependent on pre-operative function. Most patients can achieve 0–110 degrees, but stiffness of the joint can occur. In some situations, manipulation of the knee under anesthetic is used to reduce post operative stiffness. There are also many implants from manufacturers that are designed to be "high-flex" knees, offering a greater range of motion.
+
+
+=== Instability ===
+In some patients, the kneecap dislocates to the outer side of the knee after surgery. This is painful and usually needs to be treated by surgery to realign the kneecap. However, this is quite rare.
+
+
+=== Loosening ===
+Loosening of the prosthesis can be indicated on X-ray by thin radiolucent spaces around the implant, or more obviously by implant displacement.
+
+
+=== Infection ===
+The current classification of AAOS divides prosthetic infections into four types.
+
+Type 1 (positive intraoperative culture): Two positive intraoperative cultures
+Type 2 (early postoperative infection): Infection occurring within first month after surgery
+Type 3 (acute hematogenous infection): Hematogenous seeding of site of previously well-functioning prosthesis
+Type 4 (late chronic infection): Chronic indolent clinical course; infection present for more than a month
+While it is relatively rare, periprosthetic infection remains one of the most challenging complications of joint arthroplasty.
+A detailed clinical history and physical examination remain the most reliable tool to recognize a potential periprosthetic infection. In some cases the classic signs of fever, chills, painful joint, and a draining sinus may be present, and diagnostic studies are simply done to confirm the diagnosis. In reality though, most patients do not present with those clinical signs, and in fact the clinical presentation may overlap with other complications such as aseptic loosening and pain. In those cases diagnostic tests can be useful in confirming or excluding infection.
+
+Modern diagnosis of infection around a total knee replacement is based on the Musculoskeletal Infection Society (MSIS) criteria. They are:
+1. There is a sinus tract communicating with the prosthesis; or
+2. A pathogen is isolated by culture from at least two separate tissue or fluid samples obtained from the affected prosthetic joint;
+or
+Four of the following six criteria exist:
+1.Elevated serum erythrocyte sedimentation rate (ESR>30mm/hr) and serum C-reactive protein (CRP>10 mg/L) concentration,
+2.Elevated synovial leukocyte count,
+3.Elevated synovial neutrophil percentage (PMN%),
+4.Presence of purulence in the affected joint,
+5.Isolation of a microorganism in one culture of periprosthetic tissue or fluid, or
+6. Greater than five neutrophils per high-power field in five high-power fields observed from histologic analysis of periprosthetic tissue at ×400 magnification.
+None of the above laboratory tests has 100% sensitivity or specificity for diagnosing infection. Specificity improves when the tests are performed in patients in whom clinical suspicion exists. ESR and CRP remain good 1st line tests for screening (high sensitivity, low specificity).  Aspiration of the joint remains the test with the highest specificity for confirming infection.
+The choice of treatment depends on the type of prosthetic infection.
+
+Positive intraoperative cultures: Antibiotic therapy alone
+Early post-operative infections: debridement, antibiotics, and retention of prosthesis.
+Acute hematogenous infections: debridement, antibiotic therapy, retention of prosthesis.
+Late chronic: delayed exchange arthroplasty. Surgical débridement and parenteral antibiotics alone in this group has limited success, and standard of care involves exchange arthroplasty.
+
+
+== Post-operative evaluation ==
+
+Knee replacement is routinely evaluated by X-ray, including the following measures:
+
+
+== Post-operative rehabilitation and follow-up ==
+The length of post-operative hospitalization is five days on average depending on the health status of the patient and the amount of support available outside the hospital setting. Protected weight bearing on crutches or a walker is required until specified by the surgeon because of weakness in the quadriceps muscle.
+To increase the likelihood of a good outcome after surgery, multiple weeks of physical therapy are needed to help the patient return to normal activities, as well as prevent blood clots, improve circulation, increase range of motion, and eventually strengthen the surrounding muscles through specific exercises. Range of motion (to the limits of the prosthesis) is recovered over the first two weeks. Over time, patients are able to increase the amount of weight bearing on the operated leg, and eventually are able to tolerate full weight bearing with the guidance of the physical therapist. After about ten months, the patient should be able to return to normal daily activities, although the operated leg may be significantly weaker than the non-operated leg.
+For post-operative knee replacement patients, immobility is a factor precipitated by pain and other complications. Physical immobility affects every body system and contributes to functional complications of prolonged illness. In most medical-surgical hospital units that perform knee replacements, ambulation is a key aspect of nursing care that is promoted to patients. Early ambulation can decrease the risk of complications associated with immobilization such as pressure ulcers, deep vein thrombosis (DVT), impaired pulmonary function, and loss of functional mobility. Promotion and execution of early ambulation on patients reduce the complications, as well as decrease length of stay and costs associated with further hospitalization.
+Multiple rehabilitation protocols may be used for recovery of total knee arthroplasty. Continuous passive motion (CPM) is a postoperative therapy approach that uses a machine to move the knee continuously through a specific range of motion, with the goal of preventing joint stiffness and improving recovery. There is no evidence that CPM therapy leads to a clinically significant improvement in range of motion, pain, knee function, or quality of life. CPM is inexpensive, convenient, and assists patients in therapeutic compliance. However, CPM should be used in conjunction with traditional physical therapy.
+Sling therapy is a therapeutic modality used postoperative in order to decrease stiffness and improve range of motion following the procedure. In sling therapy, the patient's leg is placed in a standard tubular bandage that is suspended from a cross brace fixed to the bed while lying on their back. Unlike CPM, the use of sling therapy allows the patient to perform active knee flexion and extension with their leg suspended, minimizing gravity's resistance. By actively mobilizing the joint using their own muscular strength instead of outside forces like in CPM, studies show that there are clinically relevant benefits. The use of this modality is convenient and easy to set up in a hospital setting along with being less expensive than the CPM machine. This treatment should be incorporated with traditional physical therapy in the postoperative acute setting.
+Cryotherapy or 'cold therapy' is recommended after surgery for pain relief and to limit swelling of the knee. Knee edema appears in the hours or days following the operation. It reaches its maximum level 3 to 8 days after the surgery. On average, the volume increases by 35% compared to before the operation. Three months after the procedure, it is still increased by 11%. Cryotherapy involves the application of ice bags or cooled water to the skin of the knee joint. Stretching helps to improve range of motion as well during initial rehabilitation. Post surgery the range of motion is limited due to the immobilization, which leads to increased muscle stiffness. Hence, stretching helps to extend the shortened muscle and gradually improving the range of motion. Some physicians and patients may consider having ultrasonography for deep venous thrombosis after knee replacement. Neither gabapentin nor pregabalin have been found to be useful for pain following a knee replacement. A Cochrane review concluded that early multidisciplinary rehabilitation programs may produce better results.
+As of 2023, surgeons use Patient-Reported Outcome Measures, such as the Knee Injury and Osteoarthritis Outcome Score (KOOS) and The Forgotten Joint Score (FJS), to evaluate pain, mobility, quality of life, and satisfaction before and after knee replacement surgery.
+Follow-up assessments are conducted to examine the need for revision surgery. This is because there is an increased risk of prosthesis failure over time due to factors such as the material used, infection, and dislocation. However, a UK study showed that only 5% of knee replacements needed a revision. Researchers recommended that routine follow-up may not be needed for up to 10 years. At this point, x-rays should be used to assess the joint, and there should be a clinical assessment of pain and mobility.
+After the surgery, 88% of individuals regain their preoperative level of physical activity and sports. Even ten years later, 70% of them continue to engage in sports.
+
+
+== Frequency ==
+With 718,000 hospitalizations, knee arthroplasty accounted for 4.6% of all United States operating room procedures in 2011—making it one of the most common procedures performed during hospital stays.  The number of knee arthroplasty procedures performed in U.S. hospitals increased 93% between 2001 and 2011. A study of United States community hospitals showed that in 2012, among hospitalizations that involved an OR procedure, knee arthroplasty was the OR procedure performed most frequently during hospital stays paid by Medicare (10.8 percent of stays) and by private insurance (9.1 percent). Knee arthroplasty was not among the top five most frequently performed OR procedures for stays paid by Medicaid or for uninsured stays.
+By 2030, the demand for primary total knee arthroplasty is projected to increase to 3.48 million surgeries performed annually in the U.S.
+
+
+== Fall risk after total knee arthroplasty ==
+With osteoarthritis (OA) being the most common reason for total knee arthoplasty (TKA) surgery, it is important to understand that balance deficits significantly impact the quality of daily living in patients with knee OA and are also linked to greater risk of falling and poor mobility. Annually in the US, 40% of all patients with OA report a history of falls. TKA surgery has shown to decrease fall risk and fear of falling in pre-operative fallers with OA versus non-operative fallers by 54% following TKA.
+
+
+== See also ==
+Autologous chondrocyte implantation
+Knee osteoarthritis
+Meniscus transplant
+Microfracture surgery
+Osseointegration
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==

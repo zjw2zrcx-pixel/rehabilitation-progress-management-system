@@ -1,0 +1,1 @@
+"""Application package for the Rehab Progress Management System backend."""

@@ -1,0 +1,14 @@
+The Timed Up and Go test (TUG) is a simple test used to assess a person's mobility and requires both static and dynamic balance.
+It uses the time that a person takes to rise from a chair, walk three meters, turn around 180 degrees, walk back to the chair, and sit down while turning 180 degrees. During the test, the person is expected to wear their regular footwear and use any mobility aids that they would normally require. The TUG is used frequently in the elderly population, as it is easy to administer and can generally be completed by most older adults.
+One source suggests that scores of ten seconds or less indicate normal mobility, 11–20 seconds are within normal limits for frail elderly and disabled patients, and greater than 20 seconds means the person needs assistance outside and indicates further examination and intervention.  A score of 30 seconds or more suggests that the person may be prone to falls. Alternatively, a recommended practical cut-off value for the TUG to indicate normal versus below normal performance is 12 seconds. A study by Bischoff et al. showed the 10th to 90th percentiles for TUG performance were 6.0 to 11.2 seconds for community-dwelling women between 65 and 85 years of age, and determined that this population should be able to perform the TUG in 12 seconds or less.  TUG performance has been found to decrease significantly with mobility impairments.  Residential status and physical mobility status have been determined to be significant predictors of TUG performance. The TUG was developed from a more comprehensive test, the Get-Up and Go Test.
+Research has shown the Timed up and Go test has excellent interrater (intraclass correlation coefficient [ICC] = .99) and intrarater reliability (ICC = .99). The test score also correlates well with gait speed (r = -.55), scores on the Berg Balance Scale (r = -.72), and the Barthel Index (r = -.51).  Many studies have shown good test-retest reliability in specific populations such as community-dwelling older adults and people with Parkinson’s disease.
+Traditionally, the TUG test is being scored by the total time measured by a stopwatch. However, using wearable technology such as inertial measurement units (IMUs) can provide a more objective assessment of this test. Furthermore, these wearables can extract several mobility parameters from different phases of TUG, such as the sit-to-stand phase that allows a more detailed biomechanical analysis of the TUG test. In this case, subtle changes between patient populations can be detected in an objective manner. For instance, in a study, mobility parameters such as cadence, turning duration, and the angular velocity of the arm swing extracted from the IMUs could discriminate patients with early Parkinson's disease and their age-matched controls while the total time measured by the stopwatch failed to do so.
+
+
+== See also ==
+Romberg's test
+Sitting-rising test
+Tinetti test
+
+
+== References ==
